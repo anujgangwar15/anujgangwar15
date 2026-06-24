@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Anuj Gangwar
+</h1>
 
-<!--
-**anujgangwar15/anujgangwar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Java Full Stack Developer | Spring Boot | React | Cybersecurity Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Developer;Cybersecurity+Learner" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anujgangwar15&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgangwar15&theme=tokyonight" />
+</p>
