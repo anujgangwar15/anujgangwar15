@@ -35,7 +35,7 @@
 <!-- SLEEK SKILL ICONS -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,Python,mysql,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,mysql,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
