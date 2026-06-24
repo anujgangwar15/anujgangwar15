@@ -22,10 +22,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on building an **Attendance Management System** in Java.
+- 🔭 I’m currently working on building an **Tour_And_Travel_Booking_System** in Java.
 - 🌱 I’m currently exploring **Cyber Security** and mastering **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate on backend projects and open-source contributions.
-- 💬 Ask me about **Java, C++, and Database Management (MySQL/MongoDB)**.
+- 💬 Ask me about **Java, C++, Python and Database Management (MySQL/MongoDB)**.
 - 📫 How to reach me: Connect with me on LinkedIn or drop an email!
 
 <br>
@@ -35,7 +35,7 @@
 <!-- SLEEK SKILL ICONS -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,Python,mysql,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
