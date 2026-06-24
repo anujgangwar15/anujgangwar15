@@ -1,107 +1,64 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
+<h3 align="center">A passionate Developer based in Bengaluru</h3>
 
-<h3 align="center">Java Full Stack Developer | Spring Boot | React | Cybersecurity Enthusiast</h3>
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Cybersecurity+Learner;Open+Source+Enthusiast" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Development+Student;Java+%26+Backend+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 🚀 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-- 🎓 CDAC Student
-- 💻 Passionate Java Full Stack Developer
-- 🌱 Learning Spring Boot, React & Cybersecurity
-- 🔭 Building real-world projects
-- ⚡ Love Problem Solving and Development
-- 📫 Reach me on LinkedIn
+### 👨‍💻 About Me
 
----
+- 🔭 I’m currently working on building an **Attendance Management System** in Java.
+- 🌱 I’m currently exploring **Cyber Security** and mastering **Data Structures & Algorithms**.
+- 👯 I’m looking to collaborate on backend projects and open-source contributions.
+- 💬 Ask me about **Java, C++, and Database Management (MySQL/MongoDB)**.
+- 📫 How to reach me: Connect with me on LinkedIn or drop an email!
 
-## 🌐 Connect With Me
+<br>
 
+### 🛠️ Tech Stack & Tools
+
+<!-- SLEEK SKILL ICONS -->
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/anujgangwar15" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
+  </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🛠️ Tech Stack
+### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,javascript,git,github,vscode,linux" />
+  <!-- DARK THEMED STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
+<!-- TOP LANGUAGES -->
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujgangwar15&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgangwar15&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400" />
 </p>
 
+<br>
+
+### 🐍 Contribution Graph
+
+<!-- SNAKE ANIMATION (Requires GitHub Actions Setup) -->
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgangwar15&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anujgangwar15&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujgangwar15&theme=tokyo-night"/>
-</p>
-
----
-
-## 💻 Featured Projects
-
-### 🎮 Brick And Ball Game
-A classic Brick Breaker game developed in Java using Swing and AWT.
-
-### 🌍 Tour Planner Project
-A full-stack tour planning application built using Java, Spring Boot, React, and MySQL.
-
-### 📚 Library Management System
-A JDBC-based library management project for handling books and users.
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anujgangwar15&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-```java
-while(!success){
-    learn();
-    code();
-    improve();
-}
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:8A2BE2&section=footer"/>
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
