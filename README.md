@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on building an **Attendance Management System** in Java.
+- 🔭 I’m currently working on building an **Tour_And_Travel_Booking_System** in Java.
 - 🌱 I’m currently exploring **Cyber Security** and mastering **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate on backend projects and open-source contributions.
-- 💬 Ask me about **Java, C++, and Database Management (MySQL/MongoDB)**.
+- 💬 Ask me about **Java, C++, python and Database Management (MySQL/MongoDB)**.
 - 📫 How to reach me: Connect with me on LinkedIn or drop an email!
 
 <br>
