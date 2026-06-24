@@ -1,7 +1,5 @@
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Anuj%20Gangwar&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</p>
+<h1 align="center">Anuj Gangwar</h1>
 
 <!-- Typing Animation -->
 <p align="center">
