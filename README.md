@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Java Full Stack Developer | Spring Boot | React | Cybersecurity Enthusiast
+  Java Full Stack Developer | Programmer | Python | Error Solving
 </h3>
 
 <p align="center">
