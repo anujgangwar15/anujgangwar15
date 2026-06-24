@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
 <h3 align="center">A passionate Developer based in Bengaluru</h3>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Development+Student;Java+%26+Backend+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,7 +30,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- SLEEK SKILL ICONS -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
@@ -44,21 +41,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- DARK THEMED STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedprtpsingh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedprtpsingh&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
-<!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedprtpsingh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400" />
 </p>
 
 <br>
 
 ### 🐍 Contribution Graph
-
-<!-- SNAKE ANIMATION (Requires GitHub Actions Setup) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
