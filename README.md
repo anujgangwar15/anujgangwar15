@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Development+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </p>
 
