@@ -45,7 +45,7 @@
 
 <p align="center">
   <!-- DARK THEMED STATS FOR ANUJGANGWAR15 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anujgangwar15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anujgangwar15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" ... /> alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgangwar15&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
